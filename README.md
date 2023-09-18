@@ -1,6 +1,5 @@
 # SmallBatch 🍺
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/yjimk/smallbatch)](https://goreportcard.com/report/github.com/yjimk/smallbatch)
 [![GoDoc](https://godoc.org/github.com/yjimk/smallbatch?status.svg)](https://godoc.org/github.com/yjimk/smallbatch)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
